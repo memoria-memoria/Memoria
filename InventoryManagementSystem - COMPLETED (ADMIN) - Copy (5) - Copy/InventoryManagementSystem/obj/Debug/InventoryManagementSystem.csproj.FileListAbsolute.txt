@@ -1,0 +1,64 @@
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.AdminDashboardForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.EmployeeDashboardForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageProductsForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageUsersForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesReportForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageCategoriesForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryDatabase.accdb
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\bin\Debug\InventoryDatabase.accdb
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.AdminDashboardForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.EmployeeDashboardForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.EmployeeMainForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageCategoriesForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageProductsForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageUsersForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.QuantityManagementForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesReportForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.InventoryForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductSellingForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesRecordForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\bin\Debug\InventoryDatabase.accdb
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.AdminDashboardForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.EmployeeDashboardForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.EmployeeMainForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.InventoryForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageCategoriesForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageProductsForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ManageUsersForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductSellingForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.QuantityManagementForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesRecordForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.SalesReportForm.resources
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5) - Copy\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5) - Copy\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\thema\OneDrive\Desktop\lahat ng system\New folder\InventoryManagementSystem - COMPLETED (ADMIN) - Copy (5) - Copy\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
